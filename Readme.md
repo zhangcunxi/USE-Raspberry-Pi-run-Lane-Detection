@@ -37,3 +37,4 @@ After that I have start to build my environments:
 
 1. The uvbakutan's project has create a class to detection the road lane, but when he use this class, he did not write `main()`function, so I update this module, this will ensure I can import this class in other place.
 2. At the new python file I have import imutils and modify to use USB camera.
+**So, please keep the 'lane_detection_with_USB_camera.py' in the same folder with 'lane_detect_pi.py'**
