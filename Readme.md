@@ -26,7 +26,7 @@ And I found a USB camera at my home's storage room.
 
 After that I have start to build my environments:
 
-1. install newest raspbian on RP.
+1. install newest raspbian_stretch on RP.
 2. install OpenCV 3.4 this cost me about 8 hours for me and I followed [this link](https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/) to make it successful. 
 
 	>This instruction will use `virtualenv` a virtual environment  to install OpenCV,  **I highly recommend that.** About the reason [read this](https://realpython.com/python-virtual-environments-a-primer/)
