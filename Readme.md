@@ -17,18 +17,17 @@ Firstly I bought a raspberryPi 3B+ and picamera
 
 ![image](https://github.com/zhangcunxi/USE-Raspberry-Pi-run-Lane-Detection/blob/master/RaspberryPi.png)
 
-And I found a USB camera at my home storage room.
+And I found a USB camera at my home's storage room.
 
 ![image](https://github.com/zhangcunxi/USE-Raspberry-Pi-run-Lane-Detection/blob/master/USBCamera.png)
 
 After that I have start to build my environments:
 
 1. install newest raspbian on RP.
-2. install picamera
-3. install OpenCV 3.4 this cost me about 8 hours for me and I followed [this link](https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/) to make it successful. 
+2. install OpenCV 3.4 this cost me about 8 hours for me and I followed [this link](https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/) to make it successful. 
 
 	>This instruction will use `virtualenv` a virtual environment  to install OpenCV,  **I highly recommend that.** About the reason [read this](https://realpython.com/python-virtual-environments-a-primer/)
-
+3. install picamera
 4. install imutils by this : ```pip install --upgrade imutils```
 
 	>[imutils](https://github.com/jrosebr1/imutils) is developed by the blog writer who write 'how to install OpenCV on RP' , and I found this package has already integrate a class to use both picamera and USB camera. So, I will import this package to do my work.
