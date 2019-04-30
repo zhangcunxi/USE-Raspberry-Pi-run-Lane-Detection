@@ -1,40 +1,37 @@
 # USE Raspberry Pi run Lane Detection
-
 This project used Raspberry pi to run the Lane Detection with USB camera.
-
 ## This is my first GitHub project
+Two weeks ago I have seen a blog on Chinese knowledge share platform named 'ZhiHu',title is 'Use raspberry pi to detect the road line on my car'
 
-Two weeks ago I have see a blog on Chinese knowlage share platform named 'ZhiHu',title is 'Use raspberry pi to detect the road line on my car'
-
-I thought that preety cool, so I decide to have some fun on that. so I followed the instruction to Github regist account and fork the project.
+I thought that pretty cool, so I decide to have some fun on that. so I followed the instruction to Github， enroll account and fork the project.
 
 The project I have cloned [click here](https://github.com/putcn/lane-detection-raspberry-pi). And I found he cloned and update from [here](https://github.com/uvbakutan/lane-detection-raspberry-pi)
 , And uvbakutan have modificated/optimized version from the Udacity advanced-lane-detection project.
 
 What I do in this project is both uvbakutan and putch
-they all used picamera which is raspberryPi officiall on board camera, and this camera was suck, so I decide to try to Use USB camera to launch this programe.
+they all used picamera which is raspberryPi official on board camera, and this camera was suck, so I decide to try to Use USB camera to launch this program.
 
 
 ## requirements
 Firstly I bought a raspberryPi 3B+ and picamera 
 
-![image](http://github.com/itmyhome2013/readme_add_pic/raw/master/images/nongshalie.jpg)
+![image](https://github.com/zhangcunxi/USE-Raspberry-Pi-run-Lane-Detection/RaspberryPi.png)
 
 And I found a USB camera at my home storage room.
 
-![image](http://github.com/itmyhome2013/readme_add_pic/raw/master/images/nongshalie.jpg)
+![image](https://github.com/zhangcunxi/USE-Raspberry-Pi-run-Lane-Detection/USBCamera.png)
 
-After that I have start to build my enviroments:
+After that I have start to build my environments:
 
 1. install newest raspbian on RP.
 2. install picamera
-3. install OpenCV 3.4 this cost me about 8 hours for me and I followed [this link](https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/) to make it successfull. 
+3. install OpenCV 3.4 this cost me about 8 hours for me and I followed [this link](https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/) to make it successful. 
 
 	>This instruction will use `virtualenv` a virtual environment  to install OpenCV,  **I highly recommend that.** About the reason [read this](https://realpython.com/python-virtual-environments-a-primer/)
 
 4. install imutils by this : ```pip install --upgrade imutils```
 
-	>[imutils](https://github.com/jrosebr1/imutils) is developed by the blog writer who write 'how to install OpenCV on RP' , and I found this pakage has already integrate a class to use both picamera and USB camera. So, I will use this pakage to do my work.
+	>[imutils](https://github.com/jrosebr1/imutils) is developed by the blog writer who write 'how to install OpenCV on RP' , and I found this package has already integrate a class to use both picamera and USB camera. So, I will import this package to do my work.
 
 ##Software
 
