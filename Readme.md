@@ -40,6 +40,6 @@ After that I have start to build my environments:
 **So, please keep the 'lane_detection_with_USB_camera.py' in the same folder with 'lane_detect_pi.py'**
 
 ## Test
-I have test this program by using video from my safety recorder which setup on my car, and I have upload the test result video on this project.
+I have test this program by using video recorded from my safety recorder which setup on my car, and I have upload the test result video on this project.
 
 The camera I've used was sensitive on light, so I have adjust my screen's light option make sure the video under my test was dark enough, like I said, just for fun~
