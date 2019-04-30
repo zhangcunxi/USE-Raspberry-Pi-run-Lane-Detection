@@ -1,6 +1,9 @@
-#USE Raspberry Pi run Lane Detection
+# USE Raspberry Pi run Lane Detection
+
 This project used Raspberry pi to run the Lane Detection with USB camera.
-##This is my first GitHub project
+
+## This is my first GitHub project
+
 Two weeks ago I have see a blog on Chinese knowlage share platform named 'ZhiHu',title is 'Use raspberry pi to detect the road line on my car'
 
 I thought that preety cool, so I decide to have some fun on that. so I followed the instruction to Github regist account and fork the project.
