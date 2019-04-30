@@ -5,18 +5,18 @@ Two weeks ago I saw a blog on a Chinese knowledge share platform named 'ZhiHu', 
 
 I thought that was pretty cool, so I decide to have some fun on that. so I followed the instruction to Github， create an account and forked the project.
 
->The project I have cloned [click here](https://github.com/putcn/lane-detection-raspberry-pi). 
+>The project I have cloned can be found [here](https://github.com/putcn/lane-detection-raspberry-pi). 
 
->And I found he cloned and update from [here](https://github.com/uvbakutan/lane-detection-raspberry-pi)
+>And I found he cloned and updated from [here](https://github.com/uvbakutan/lane-detection-raspberry-pi)
 
->And uvbakutan have modificated/optimized version from the Udacity advanced-lane-detection project.
+>And uvbakutan has modificated/optimized version from the Udacity advanced-lane-detection project.
 
-What I do in this project is both uvbakutan and putch
-they all used picamera which is raspberryPi official on board camera, and this camera was suck, so I decide to try to Use USB camera to launch this program.
+What I do in this project is both uvbakutan and putch.
+They both used picamera, which is the raspberryPi official on board camera, but this camera sucks, so I decide to try to use a USB camera to launch this program.
 
 
 ## Requirements
-Firstly I bought a raspberryPi 3B+ and picamera 
+Firstly I bought a raspberryPi 3B+ and a picamera 
 
 ![image](https://github.com/zhangcunxi/USE-Raspberry-Pi-run-Lane-Detection/blob/master/RaspberryPi.png)
 
