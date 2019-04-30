@@ -9,7 +9,7 @@ I thought that was pretty cool, so I decide to have some fun on that. so I follo
 
 >And I found he cloned and updated from [here](https://github.com/uvbakutan/lane-detection-raspberry-pi)
 
->And uvbakutan has modificated/optimized version from the Udacity advanced-lane-detection project.
+>And uvbakutan has a modificated/optimized version from the Udacity advanced-lane-detection project.
 
 What I do in this project is both uvbakutan and putch.
 They both used picamera, which is the raspberryPi official on board camera, but this camera sucks, so I decide to try to use a USB camera to launch this program.
