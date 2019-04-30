@@ -39,11 +39,11 @@ After that I have start to build my environments:
 
 ## Software
 
-1. The uvbakutan's project has create a class to detection the road lane, but when he use this class, he did not write `main()`function, so I update this module, this will ensure I can import this class in other place.
-2. At the new python file I have import imutils and modify to use USB camera.
+1. The uvbakutan's project has create a class to detect the road lane, but when he was using this class, he did not write `main()`function, so I updated this module. This will ensure I can import this class in other places.
+2. I imported imutils and modified it to use a USB camera to a new python file .
 **So, please keep the 'lane_detection_with_USB_camera.py' in the same folder with 'lane_detect_pi.py'**
 
 ## Test
-I have test this program by using video recorded from my safety recorder which setup on my car, and I have upload the test result video on this project.
+I have tested this program by using video recorded from my safety recorder, which is set up on my car. I have upload the test result video on this project.
 
-The camera I've used was sensitive on light, so I have adjust my screen's light option make sure the video under my test was dark enough, like I said, just for fun~
+The camera I've used was sensitive on light, so I have adjust my screen brightness to make sure the video under my test was darkness enough. (like I said, just for fun~)
