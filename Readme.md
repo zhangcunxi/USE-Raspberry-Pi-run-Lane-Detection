@@ -46,4 +46,4 @@ After that I have start to build my environments:
 ## Test
 I have tested this program by using video recorded from my safety recorder, which is set up on my car. I have upload the test result video on this project.
 
-The camera I've used was sensitive on light, so I have adjust my screen brightness to make sure the video under my test was darkness enough. (like I said, just for fun~)
+The camera I've used was sensitive on light, so I have adjust my screen brightness to make sure the video under my test was dark enough. (like I said, just for fun~)
