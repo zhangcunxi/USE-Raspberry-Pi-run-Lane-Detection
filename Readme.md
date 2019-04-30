@@ -7,7 +7,7 @@ I thought that was pretty cool, so I decide to have some fun on that. so I follo
 
 >The project I have cloned can be found [here](https://github.com/putcn/lane-detection-raspberry-pi). 
 
->And I found he cloned and updated from [here](https://github.com/uvbakutan/lane-detection-raspberry-pi)
+>And I found he cloned and updated from [here](https://github.com/uvbakutan/lane-detection-raspberry-pi).
 
 >And uvbakutan has a modificated/optimized version from the Udacity advanced-lane-detection project.
 
