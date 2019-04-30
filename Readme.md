@@ -35,6 +35,8 @@ After that I have start to build my environments:
 
 	>[imutils](https://github.com/jrosebr1/imutils) is developed by the blog writer who write 'how to install OpenCV on RP' , and I found this package has already integrate a class to use both picamera and USB camera. So, I will import this package to do my work.
 
+**This project use RP3B+ and '2019-04-08-raspbian-stretch-full' and OpenCV3.4 **
+
 ## Software
 
 1. The uvbakutan's project has create a class to detection the road lane, but when he use this class, he did not write `main()`function, so I update this module, this will ensure I can import this class in other place.
